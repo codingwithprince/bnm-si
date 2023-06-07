@@ -72,7 +72,7 @@ const Navbar = () => {
 
       <button
         onClick={() => setOpenNav(!openNav)}
-        className={`block md:hidden text-2xl font-bold text-sky-600`}
+        className={`block md:hidden text-2xl font-bold text-[#003399]`}
       >
         {openNav ? <AiOutlineClose /> : <FaBars />}
       </button>

@@ -12,7 +12,7 @@ const Location = () => {
                     Slovenia</p>
              </div>
              {/* <iframe data-aos="fade-up" className='w-full h-[400px]' src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10980.617712444178!2d15.6619642!3d46.5248459!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f775fe7e887e9%3A0xce460bf9306f234!2sB%20n%20m%20%2C%20Avtomobilska%20industrija%2C%20d.o.o.!5e0!3m2!1sen!2ssi!4v1685957989011!5m2!1sen!2ssi"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> */}
-             <iframe data-aos="fade-up" className='w-full h-[400px]' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2745.1544295708727!2d15.659389275970845!3d46.524845871111154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f775fe7e887e9%3A0xce460bf9306f234!2sB%20n%20m%20%2C%20Avtomobilska%20industrija%2C%20d.o.o.!5e0!3m2!1sen!2ssi!4v1686175556491!5m2!1sen!2ssi"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+             <iframe data-aos="fade-up" className='w-full h-[400px]' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2745.1544295708727!2d15.659389275970845!3d46.524845871111154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f775fe7e887e9%3A0xce460bf9306f234!2sB%20n%20m%20%2C%20Avtomobilska%20industrija%2C%20d.o.o.!5e0!3m2!1sen!2ssi!4v1686175556491!5m2!1sen!2ssi"  allowFullScreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
   )
