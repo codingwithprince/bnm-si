@@ -2,7 +2,7 @@ import React from 'react'
 
 const ContactForm = () => {
     return (
-        <div className='flex flex-col justify-center'>
+        <div className='flex flex-col justify-center mx-5'>
             <p  className='text-gray-800 mb-10 p-2 text-center md:text-lg px-[5%] md:px-0'>Would you like an offer? Are you interested in price? Do you have any comments? <br /> If so, please complete the form and we will respond as soon as possible. You can also call us or send us an e-mail.</p> 
 
             <form  className='bg-white shadow-lg md:shadow-xl rounded px-8 pt-6 w-full  pb-8 mb-4'>

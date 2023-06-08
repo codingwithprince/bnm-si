@@ -32,7 +32,7 @@ const refImg =[
 
 const Reference = () => {
   return (
-    <div className='py-10'>
+    <div className='py-10 mb-5'>
         <h2  className="text-center text-2xl sm:text-4xl font-bold text-gray-700 pb-10 md:pb-20">Reference</h2>
          <Marquee pauseOnHover={false} loop={0} speed={30}>
             {

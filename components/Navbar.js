@@ -65,9 +65,9 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="sticky top-0 z-50 shadow-lg py-2 bg-white flex flex-wrap justify-between px-[5%] items-center">
+    <nav className="sticky top-0 z-50 shadow-lg md:py-2 py-5 bg-white flex flex-wrap justify-between px-[5%] items-center">
       <div className="logo">
-        <Image src="/favicon.ico" height={15} width={80} alt="logo" />
+        <Image src="/favicon.ico" height={15} width={90} alt="logo" />
       </div>
 
       <button
