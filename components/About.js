@@ -36,7 +36,7 @@ const About = () => {
   return (
     <div id="about" className="about py-[20px] px-[5%]">
       <h3
-        data-aos="fade-up"
+        // data-aos="fade-upz"
         className="font-bold text-center text-gray-700 text-2xl md:text-4xl my-3 md:my-10"
       >
         About BNM d.o.o.
